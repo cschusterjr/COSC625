@@ -1,0 +1,1 @@
+print("Goodbye my new friend, I will see you soon.")
